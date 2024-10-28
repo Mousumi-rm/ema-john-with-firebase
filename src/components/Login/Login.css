@@ -1,0 +1,9 @@
+.login-button{
+    background-color: goldenrod;
+}
+.login-google-button{
+    background-color: white;
+}
+.shadow-sign-In{
+    box-shadow:-10px 10px #FFE0B3;
+}
